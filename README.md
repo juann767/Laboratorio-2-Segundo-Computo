@@ -1,6 +1,7 @@
 # Laboratorio-2-Segundo-C-mputo
 Lab 2 C2  de Programación Computacional 4
 
+## Integrantes
 Juan Ramón Espinal Coto SMSS102323
 
 Diego Martín López Moreno SMSS097824
