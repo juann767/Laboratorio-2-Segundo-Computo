@@ -1,6 +1,6 @@
 # Laboratorio-2-Segundo-C-mputo
-Laboratorio 2 de Programación Computacional 4
-Realizado por 
+Lab 2 C2  de Programación Computacional 4
+
 Juan Ramón Espinal Coto SMSS102323
 
 Diego Martín López Moreno SMSS097824
