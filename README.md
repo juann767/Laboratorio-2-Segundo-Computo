@@ -6,7 +6,7 @@ Juan Ramón Espinal Coto SMSS102323
 
 Diego Martín López Moreno SMSS097824
 
-# Implementación de análisis - Laboratorio 2
+# Implementación de análisis
 
 El sistema permite la gestión de registros mediante una interfaz web conectada a una base de datos MySQL, aplicando controles de acceso y validación de datos.
 
